@@ -8,7 +8,7 @@ namespace CrudValidacaoNHibernate.Conexao
     public class FluentySessionFactory
     {
         //string de conexão com o servidor
-        private static string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hebert.f.estagiario\Documents\dtbhub.mdf;Integrated Security=True;Connect Timeout=30";
+        private static string ConnectionString = @"Server=tcp:bdbase.database.windows.net,1433;Initial Catalog=bdbase;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         private static ISessionFactory session; 
 
