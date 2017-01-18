@@ -10,7 +10,7 @@ namespace CrudValidacaoNHibernate.Conexao
     public class FluentySessionFactory
     {
         //string de conexão com o servidor
-        private static string ConnectionString = @"Server=tcp:bdbase.database.windows.net,1433;Initial Catalog=bdbase;Persist Security Info=False;User ID={your_username};Password={hof123@456};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        private static string ConnectionString = @"Server=tcp:bdbase.database.windows.net,1433;Initial Catalog=bdbase;Persist Security Info=False;User ID={administrador};Password={hof123@456};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
        // private static string ConnectionString = ConfigurationManager.ConnectionStrings["conexao"].ConnectionString;
 
         private static ISessionFactory session; 
