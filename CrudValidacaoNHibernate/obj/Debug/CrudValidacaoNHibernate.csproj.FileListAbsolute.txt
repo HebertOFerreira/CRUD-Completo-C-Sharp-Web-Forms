@@ -1,0 +1,113 @@
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\ApplicationInsights.config
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\csc.exe
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Collections.Immutable.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Reflection.Metadata.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\vbc.exe
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe.config
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll.config
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.pdb
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.csprojResolveAssemblyReference.cache
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.dll
+G:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.pdb
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\ApplicationInsights.config
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\csc.exe
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Collections.Immutable.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\vbc.exe
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe.config
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll.config
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.pdb
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.csprojResolveAssemblyReference.cache
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.pdb
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Iesi.Collections.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\NHibernate.dll
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.pdb
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Iesi.Collections.xml
+E:\Projeto CRUD para GitHub\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\NHibernate.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\ApplicationInsights.config
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\csc.exe
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\vbc.exe
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll.config
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\CrudValidacaoNHibernate.pdb
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Iesi.Collections.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\NHibernate.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.pdb
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\FluentNHibernate.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Iesi.Collections.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.Web.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\bin\NHibernate.xml
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.csprojResolveAssemblyReference.cache
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.dll
+C:\Users\Hebert\Documents\Visual Studio 2015\Projects\git\local\CrudValidacaoNHibernate\CrudValidacaoNHibernate\obj\Debug\CrudValidacaoNHibernate.pdb

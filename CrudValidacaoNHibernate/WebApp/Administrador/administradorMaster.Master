@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="administradorMaster.master.cs" Inherits="CrudValidacaoNHibernate.WebApp.Administrador.administradorMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="../../Css/estilo.css" rel="stylesheet" />
+
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!--Confirmar exclusão -->
+    <script type="text/javascript">
+        function ConfirmaExclusao() {
+            var confirm_value = document.createElement("INPUT");
+            confirm_value.type = "hidden";
+            confirm_value.name = "confirm_value";
+            if (confirm("Todos os dados serão perdidos! Excluir?")) {
+                confirm_value.value = "Yes";
+            }
+            document.forms[0].appendChild(confirm_value);
+        }
+
+    </script>
+
+</head>
+<body>
+
+    <div class="container">
+        <asp:ContentPlaceHolder ID="Main" runat="server">
+
+            <!-- Menu -->
+            <ul id="nav">
+                <li><a href="#">Cadastrar</a>
+                    <ul>
+                        <li><a href="cadastroAdmin.aspx">Adminstrador</a></li>
+                        <li><a href="cadastroUsuario.aspx">Usuário</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Listar</a>
+                    <ul>
+                        <li><a href="listarAdmin.aspx">Adminstrador</a></li>
+                        <li><a href="listarUsuario.aspx">Usuário</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Alterar</a>
+                    <ul>
+                        <li><a href="alterarAdmin.aspx">Adminstrador</a></li>
+                        <li><a href="alterarUsuario.aspx">Usuário</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Excluir</a>
+                    <ul>
+                        <li><a href="excluirAdmin.aspx">Adminstrador</a></li>
+                        <li><a href="excluirUsuario.aspx">Usuário</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+            <!-- Pega a validação da tela de login -->
+            <div style="float: left; margin-left: 550px; position: absolute; align-content: center; margin-top: 10px">
+                <div style="float: left; width: 300px; margin-left: 500px;">
+                    <asp:Label ID="LabelAdm" runat="server" ForeColor="White"></asp:Label>
+                    <asp:Label ID="LabelID" runat="server" ForeColor="Red"></asp:Label>
+                    <input type="button" id="button" runat="server" value="Sair" onserverclick="button_ServerClick" />
+                </div>
+            </div>
+
+        </asp:ContentPlaceHolder>
+        <!-- Fim do cph Main-->
+
+        <div>
+            <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </div>
+    <!-- fim do container-->
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+﻿//QUERY DE CRIAÇÃO PARA O BANCO
+
+	CREATE TABLE [Administrador] (
+    [idAdmin]     INT  IDENTITY (1, 1) NOT NULL,
+    [nomeAdmin]     NCHAR (20) NOT NULL,
+    [senhaAdmin] NCHAR (12) NOT NULL,
+    PRIMARY KEY CLUSTERED ([idAdmin] ASC)
+);
+
+CREATE TABLE [Usuario](
+	[idUsuario] INT IDENTITY (1, 1) NOT NULL,
+	[idAdmin]  INT  NOT NULL,
+	[nomeUsuario]  NCHAR (20) NOT NULL,
+	[senhaUsuario] NCHAR (12) NOT NULL,
+	PRIMARY KEY CLUSTERED ([idUsuario] ASC),     
+    CONSTRAINT idAdmin FOREIGN KEY (idAdmin)     
+    REFERENCES [Administrador] (idAdmin)     
+	);
+
+
+
+	//CRIANDO UM ADMINISTRADOR MASTER
+	//INSERT INTO Administrador(nomeAdmin, senhaAdmin) VALUES ('admin', 'adm02017');

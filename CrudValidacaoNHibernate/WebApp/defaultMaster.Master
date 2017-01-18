@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="defaultMaster.master.cs" Inherits="CrudValidacaoNHibernate.WebApp.defaultMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       
+    </asp:ContentPlaceHolder>
+    <link href="../Css/menu.css" rel="stylesheet" />
+    <link href="../Css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        <asp:ContentPlaceHolder ID="Main" runat="server">
+
+            <div class="container">
+                <img src="../Imagens/fundo_login.png" alt="FundoLogin" />
+                <div id="conteudoDefault">
+                    <asp:ContentPlaceHolder ID="cphConteudo" runat="server">
+
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+             <!-- fim do container-->
+
+        </asp:ContentPlaceHolder><!-- Fim do cph Main-->
+    </div>
+</body>
+</html>

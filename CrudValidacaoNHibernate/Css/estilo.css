@@ -1,0 +1,81 @@
+﻿
+.container {
+    border: solid 1px;
+    width: 1366px;
+    height: 760px;
+    margin: 0px auto;
+    background-image:url('../../Imagens/fundo_login.png')
+}
+
+
+#nav {
+    margin-top: 200px;
+    margin-left:20px;
+    float:left;
+}
+
+ul{
+    float:left;
+}
+
+/*************************************/
+/***************MENU******************/
+/*************************************/
+/*Removendo bullets(marcas/identação) das listas*/
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 150px;
+}
+    /*fim*/
+
+    /*Posicionar os itens da lista como relativos*/
+    ul li {
+        position: relative;
+    }
+/*fim*/
+
+/*Estilizando os submenus ao lado direito do elemento pai*/
+li ul {
+    position: absolute;
+    left: 149px;
+    top: 0; /*left ou top posiciona cada item do submenu ao lado do item pai*/
+    display: none; /*para que o submenu nao fique visivel por padrão*/
+}
+/*fim*/
+
+/*Aparência aos links*/
+ul li a {
+    display: block; /*para que cada link ocupe toda a largura definida a ele na lista*/
+    text-decoration: none;
+    color: #E2144A;
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+/*fim*/
+
+/* Fix para o IE \*/
+* html ul li {
+    float: left;
+}
+
+    * html ul li a {
+        height: 1%;
+    }
+/*fim*/
+
+/*Exibindo o submenu*/
+li:hover ul {
+    display: block;
+}
+/*fim*/
+
+/*Melhorando aparência ao passar o mouse*/
+ul li a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    background: #ccc;
+}
+/*fim*/
