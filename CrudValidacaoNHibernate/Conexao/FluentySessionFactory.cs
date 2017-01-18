@@ -2,13 +2,16 @@
 using FluentNHibernate.Cfg;
 using FluentNHibernate.Cfg.Db;
 using NHibernate;
+using NHibernate.SqlAzure;
+using System.Configuration;
 
 namespace CrudValidacaoNHibernate.Conexao
 {
     public class FluentySessionFactory
     {
         //string de conexão com o servidor
-        private static string ConnectionString = @"Server=tcp:bdbase.database.windows.net,1433;Initial Catalog=bdbase;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        // private static string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hebert.f.estagiario\Documents\dtbhub.mdf;Integrated Security=True;Connect Timeout=30";
+        private static string ConnectionString = ConfigurationManager.ConnectionStrings["conexao"].ConnectionString;
 
         private static ISessionFactory session; 
 
@@ -17,7 +20,9 @@ namespace CrudValidacaoNHibernate.Conexao
             if (session != null) 
                 return session;
 
-            IPersistenceConfigurer configDB = (MsSqlConfiguration.MsSql2008.ConnectionString(ConnectionString)); 
+            //Fluently.Configure().Database(MsSqlConfiguration.MsSql2008.ConnectionString(connectionString).Driver<SqlAzureClientDriver>());
+
+            IPersistenceConfigurer configDB = (MsSqlConfiguration.MsSql2008.ConnectionString(ConnectionString).Driver<SqlAzureClientDriver>()); 
 
             var configMap = Fluently.Configure().Database(configDB).Mappings(c => c.FluentMappings.AddFromAssemblyOf<AdministradorMapping>());
           
